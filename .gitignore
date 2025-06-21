@@ -6,6 +6,7 @@
 Properties
 *.csproj
 *App.config
+*.sln
 
 # User-specific files
 *.suo
